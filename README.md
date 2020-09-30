@@ -1,11 +1,11 @@
-dashbuilder-website
+dashbuilder: a website
 ===================
 
-Sources for the website http://www.dashbuilder.org
+The sources for the  this website is: http://www.dashbuilder.org
 
-# How to build with Awestruct
+#Let us know how to build with Awestruct
 
-Follow the instructions of Awestruct's [getting started guide](http://awestruct.org/getting_started/).
+Follow the instructions of Awestruct's [follow the started guide](http://awestruct.org/getting_started/).
 
 First set up your environment correctly:
 
