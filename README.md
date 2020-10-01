@@ -3,7 +3,7 @@ dashbuilder-website
 
 Sources for the website http://www.dashbuilder.org
 
-# How to build with Awestruct
+# How to build your own website with Awestruct
 
 Follow the instructions of Awestruct's [getting started guide](http://awestruct.org/getting_started/).
 
