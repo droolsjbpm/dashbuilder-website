@@ -1,3 +1,7 @@
+**About Dashbuilder**
+Dashbuilder is a full featured web application which allows non-technical users to visually create business dashboards.
+Dashboard data can be extracted from heterogeneous sources of information such as JDBC databases or regular text files.
+
 dashbuilder-website
 ===================
 
