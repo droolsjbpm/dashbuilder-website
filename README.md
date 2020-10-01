@@ -1,4 +1,4 @@
-dashbuilder-website
+dashbuilder-website (Using Javascript)
 ===================
 
 Sources for the website http://www.dashbuilder.org
