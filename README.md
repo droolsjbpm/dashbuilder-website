@@ -1,4 +1,4 @@
-dashbuilder-website
+dashbuilder-website An amazing project
 ===================
 
 Sources for the website http://www.dashbuilder.org
